@@ -1,20 +1,7 @@
 ﻿<Properties StartupConfiguration="{B960DC30-F682-4037-8FF0-04BB9673FA59}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Paypont/Controllers/api/CustomerController.cs">
     <Files>
-      <File FileName="Paypont/Views/Home/Index.cshtml" Line="41" Column="50" />
-      <File FileName="Paypont/Views/Home/About.cshtml" Line="1" Column="1" />
-      <File FileName="Paypont/Views/Home/Contact.cshtml" Line="9" Column="11" />
-      <File FileName="Paypont/Views/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="Paypont/Views/_ViewStart.cshtml" Line="1" Column="1" />
-      <File FileName="Paypont/Program.cs" Line="1" Column="1" />
-      <File FileName="Paypont/Startup.cs" Line="21" Column="43" />
-      <File FileName="Paypont/Properties/launchSettings.json" Line="6" Column="48" />
-      <File FileName="Paypont/Controllers/HomeController.cs" Line="1" Column="1" />
-<<<<<<< HEAD
-      <File FileName="Paypont/Controllers/api/CustomerController.cs" Line="105" Column="13" />
-=======
-      <File FileName="Paypont/Controllers/api/CustomerController.cs" Line="116" Column="32" />
->>>>>>> 237ab996d9e131ad007669fe4c2c7217505a3177
+      <File FileName="Paypont/Controllers/api/CustomerController.cs" Line="105" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

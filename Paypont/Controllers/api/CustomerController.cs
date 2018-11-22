@@ -96,12 +96,7 @@ namespace Paypont.Controllers.api
             return prop;
         }
 
-      
-<<<<<<< HEAD
         private List<Models.Customer> populateCollection(List<Models.Customer> listElements, IFormCollection requestFormData)
-=======
-        private List<Models.Customer> populateCollection(List<Models.Customer> lstElements, IFormCollection requestFormData)
->>>>>>> 237ab996d9e131ad007669fe4c2c7217505a3177
         {
             string searchText = string.Empty;
 
