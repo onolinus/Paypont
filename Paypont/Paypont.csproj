@@ -12,6 +12,7 @@
   <ItemGroup>
     <Folder Include="Controllers\api\" />
     <Folder Include="Data\" />
+    <Folder Include="Readme\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Data\cust.csv" />
